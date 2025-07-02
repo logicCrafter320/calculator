@@ -1,5 +1,5 @@
 # 🔢 Simple Calculator in C
-![Cover Image](cover.png)
+![Cover](https://github.com/logicCrafter320/my-projects/blob/main/cover.png)
 
 This is a simple command-line calculator written in C...
 
